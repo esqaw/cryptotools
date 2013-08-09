@@ -12,4 +12,5 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3.3',
     ],
+    url='https://github.com/esqaw/cryptotools',
 )
