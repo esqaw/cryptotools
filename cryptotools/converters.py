@@ -15,5 +15,3 @@ def hex_to_bytes(hex_str):
 
 def b64_to_bytes(b64_str):
     return b64decode(b64_str)
-
-
